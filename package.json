@@ -1,0 +1,29 @@
+{
+  "name": "replace-variables",
+  "description": "Replace in string pattern by variables. Throw error if variables is not string or number.",
+  "author": "Eugeny Dementev",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugeny-dementev/replace-variables.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/eugeny-dementev/replace-variables/issues"
+  },
+  "homepage": "https://github.com/eugeny-dementev/replace-variables#readme",
+  "keywords": [
+    "string",
+    "template",
+    "variables",
+    "replace",
+    "throw",
+    "error"
+  ],
+  "license": "MIT"
+}
