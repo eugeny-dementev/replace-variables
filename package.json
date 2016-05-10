@@ -7,12 +7,16 @@
     "type": "git",
     "url": "git+https://github.com/eugeny-dementev/replace-variables.git"
   },
-  "main": "index.js",
+  "main": "./index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "lab test -l"
   },
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "lodash.get": "^4.2.1"
+  },
+  "devDependencies": {
+    "lab": "^10.5.1"
+  },
   "bugs": {
     "url": "https://github.com/eugeny-dementev/replace-variables/issues"
   },
